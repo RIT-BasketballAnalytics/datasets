@@ -1,0 +1,70 @@
+PlayID,PlayType,Direction,Play_Action
+1,Cuts,N/A,Basket
+2,Cuts,N/A,Screen
+3,Cuts,N/A,Flash
+4,Transition,N/A,"Ball Handler"
+5,Transition,N/A,"Left Wing"
+6,Transition,N/A,"Right Wing"
+7,Transition,N/A,Trailer
+8,Transition,N/A,"Leak Outs"
+9,Transition,N/A,"First Middle"
+10,"Off Screens",Left,Straight
+11,"Off Screens",Left,Flare
+12,"Off Screens",Left,Curl
+13,"Off Screens",Right,Straight
+14,"Off Screens",Right,Flare
+15,"Off Screens",Right,Curl
+16,"Hand Offs",Top,Dribble
+17,"Hand Offs",Top,Stationary
+18,"Hand Offs",Right,Dribble
+19,"Hand Offs",Right,Stationary
+20,"Hand Offs",Left,Dribble
+21,"Hand Offs",Left,Stationary
+22,"P&R Roll Man",Left,Pop
+23,"P&R Roll Man",Right,Pop
+24,"P&R Roll Man",N/A,Pop
+25,"P&R Roll Man",N/A,Roll
+26,"Spot Ups",Left,Drive
+27,"Spot Ups",Right,Drive
+28,"Spot Ups",Straight,Drive
+29,"Spot Ups",N/A,Shot
+30,PNR,Right,Off
+31,PNR,Right,Away
+32,PNR,Left,Off
+33,PNR,Left,Away
+34,PNR,High,Off
+35,PNR,High,Away
+36,Misc,N/A,N/A
+37,Iso,Top,N/A
+38,Iso,Right,N/A
+39,Iso,Left,N/A
+40,Post,Right,"Face Up"
+41,Post,Right,Dribble
+42,Post,Left,"Face Up"
+43,Post,Left,Dribble
+44,Post,Middle,"Face Up"
+45,Post,Middle,Dribble
+46,"P&R Roll Man",Left,Slips
+47,"P&R Roll Man",Right,Slips
+48,"P&R Roll Man",N/A,Slips
+49,"P&R Roll Man",Left,Roll
+50,"P&R Roll Man",Right,Roll
+51,N/A,N/A,N/A
+52,Transition,N/A,N/A
+53,Transition,N/A,N/A
+54,"Spot ups",N/A,N/A
+55,"Off Screens",Left,N/A
+56,"Off Screens",RIght,N/A
+57,PNR,Left,N/A
+58,PNR,Right,N/A
+59,PNR,High,N/A
+60,Post,Right,N/A
+61,Post,Left,N/A
+62,Post,Middle,N/A
+63,Post,N/A,N/A
+64,Post,Left,"Right Shoulder"
+65,Post,Right,"Right Shoulder"
+66,Post,Left,"Left Shoulder"
+67,Post,Right,"Left Shoulder"
+68,Post,Middle,"Right Shoulder"
+69,Post,Middle,"Left Shoulder"
